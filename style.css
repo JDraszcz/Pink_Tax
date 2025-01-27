@@ -70,5 +70,5 @@ h1 {
 }
 
 .container{
-  background-color(to left, pink, yellow);
+  background:(to left, pink, yellow);
 }
