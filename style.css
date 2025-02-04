@@ -65,8 +65,10 @@
 
 
 h1 {
-  color: pink;
+  color: #ff25fc;
   font-family: lato;
+  font-weight: bold;
+  font-size: 62px;
 }
 
 .container{
@@ -75,4 +77,6 @@ h1 {
   background-color: lightblue;
   height: 100%;
   width: 65%;
+  font-family: lato;
+  font-size: 30px;
 }
