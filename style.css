@@ -65,7 +65,7 @@
 
 
 h1 {
-  color: #ff25fc;
+  color: #fd72b3;
   font-family: lato;
   font-weight: bold;
   font-size: 62px;
@@ -85,3 +85,6 @@ h2{
   text-align: center;
 }
 
+header{
+  background-color: #efeeee
+}
