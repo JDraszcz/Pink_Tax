@@ -1,7 +1,6 @@
 *{
   margin: 0px;
   padding: 0px;
-  background-color: #ffe5f1;
 }
 
 .lato-thin {
@@ -75,7 +74,7 @@ h1 {
 .container{
   display: block;
   margin: auto;
-  background-color: #ffe5f1;
+  background-color: #fafafa;
   height: 100%;
   width: 65%;
   font-family: lato;
