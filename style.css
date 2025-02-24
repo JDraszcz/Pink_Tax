@@ -74,7 +74,7 @@ h1 {
 .container{
   display: block;
   margin: auto;
-  background-color: lightblue;
+  background-color: #ffe5f1;
   height: 100%;
   width: 65%;
   font-family: lato;
