@@ -104,5 +104,7 @@ header{
 }
 
 #gauche img {
+  display: block;
+  align-items: left;
 }
 
