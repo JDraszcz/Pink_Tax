@@ -92,3 +92,8 @@ h2{
 header{
   background-color: #ffe5f1
 }
+
+#haut img{
+  height: 110px;
+  width: 100%;
+}
