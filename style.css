@@ -105,7 +105,6 @@ header{
 }
 
 #droite img {
-  display: flex;
   align-items: flex-start;
   border: 2px solid blue;
   width: 283px;
@@ -114,7 +113,6 @@ header{
 }
 
 #gauche img {
-  display: flex;
   align-items: flex-end;
   border: 2px solid blue;
   width: 304px;
