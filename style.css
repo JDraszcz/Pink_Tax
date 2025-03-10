@@ -110,6 +110,7 @@ header{
 
 #gauche  {
   display: inline-block;
+  float: left;
   border: 2px solid blue;
   width: 304px;
   height: 607px;
