@@ -99,8 +99,8 @@ header{
 }
 
 #droite img {
-  display: block;
-  align-items: right;
+  display: flex;
+  align-items: flex-start;
   border: 2px solid blue;
   width: 283px;
   height: 571px;
@@ -108,8 +108,8 @@ header{
 }
 
 #gauche img {
-  display: block;
-  align-items: left;
+  display: flex;
+  align-items: flex-end;
   border: 2px solid blue;
   width: 304px;
   height: 607px;
