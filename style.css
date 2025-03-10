@@ -102,11 +102,16 @@ header{
   display: block;
   align-items: right;
   border: 2px solid blue;
+  width: 283px;
+  height: 571px;
+  
 }
 
 #gauche img {
   display: block;
   align-items: left;
   border: 2px solid blue;
+  width: 304px;
+  height: 607px;
 }
 
