@@ -73,7 +73,7 @@ h1 {
 }
 
 .container{
-  display: block;
+  align-self: center;
   margin: auto;
   background-color: #fafafa;
   height: 100%;
