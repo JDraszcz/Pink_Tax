@@ -97,3 +97,12 @@ header{
   height: 800px;
   width: 100%;
 }
+
+#droite img {
+  display: block;
+  align-items: right;
+}
+
+#gauche img {
+}
+
