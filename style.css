@@ -1,11 +1,7 @@
 *{
   margin: 0px;
   padding: 0px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: stretch;
-  justify-content: center;
+  display: block;
   
 }
 
