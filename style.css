@@ -102,7 +102,7 @@ header{
 
 #droite  {
   display: inline-block;
-  position: sticky;
+  position: fixed;
   border: 2px solid blue;
   width: 283px;
   height: 571px;
@@ -111,7 +111,7 @@ header{
 
 #gauche  {
   display: inline-block;
-  position: sticky;
+  position: fixed;
   float: left;
   border: 2px solid blue;
   width: 304px;
