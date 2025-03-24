@@ -14,6 +14,10 @@ a {
   
 }
 
+.hidden{
+  display: none;
+}
+
 .lato-thin {
   font-family: "Lato", serif;
   font-weight: 100;
