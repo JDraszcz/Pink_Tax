@@ -1,5 +1,5 @@
-nav ol{
-  text-decoration: none;
+nav {
+  display: inline-flex;
 }
 
 *{
