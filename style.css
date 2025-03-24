@@ -117,12 +117,9 @@ header{
   height: 607px;
 }
 
-nav{
-  display: inline;
-}
-
 ol{
   text-decoration: none;
+  display: inline;
 }
 
 
