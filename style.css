@@ -121,4 +121,8 @@ nav{
   display: inline;
 }
 
+ol{
+  text-decoration: none;
+}
+
 
