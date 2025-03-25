@@ -132,7 +132,7 @@ header{
 
 nav {
   display: flex;
-  position: flex-end;
+  justify-content: flex-end;
 }
 
 
