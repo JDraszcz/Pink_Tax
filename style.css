@@ -130,5 +130,9 @@ header{
   height: 607px;
 }
 
+nav {
+  display: flex;
+  position: flex-end;
+}
 
 
