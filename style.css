@@ -5,6 +5,12 @@ nav {
 
 a {
   text-decoration: none;
+  color: #fd72b3;
+}
+
+a:hover{
+  background-color: #fd72b3;
+  color: white;
 }
 
 *{
@@ -135,11 +141,4 @@ nav {
   justify-content: flex-end;
 }
 
-nav li {
-  color: white;
-}
 
-nav li:hover{
-  color: red;
-  animation: 3s linear 0s infinite;
-}
