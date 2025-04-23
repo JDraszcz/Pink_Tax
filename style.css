@@ -9,8 +9,11 @@ a {
 }
 
 a:hover{
-  background-color: #fd72b3;
   color: white;
+}
+
+ol:hover{
+  background-color: #fd72b3;
 }
 
 *{
@@ -145,6 +148,7 @@ ol{
     height: 45px;
     width: 150px;
     margin-top: -50px;
+    font-family: Verdana;
 }
 
 
