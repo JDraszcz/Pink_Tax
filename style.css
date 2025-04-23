@@ -124,7 +124,7 @@ header{
 
 #droite  {
   display: inline-block;
-  position: fixed;
+  position: sticky;
   border: 2px solid blue;
   width: 283px;
   height: 571px;
