@@ -141,4 +141,10 @@ nav {
   justify-content: flex-end;
 }
 
+ol{
+  height: 30px; 
+  width: 45px;
+  spacement: 10px;
+}
+
 
