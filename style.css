@@ -135,4 +135,11 @@ nav {
   justify-content: flex-end;
 }
 
+nav > a {
+  color: white;
+}
 
+nav > a:hover{
+  color: red;
+  animation: 3s linear;
+}
