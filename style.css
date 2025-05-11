@@ -159,3 +159,7 @@ ol{
 .container .img2{
   zoom: 70%;
 }
+
+.container p{
+  text-align: center;
+}
