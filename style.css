@@ -151,4 +151,6 @@ ol{
     font-family: Verdana;
 }
 
-
+.container img {
+  align-items: center;
+}
