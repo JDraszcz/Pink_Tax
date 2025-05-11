@@ -152,5 +152,6 @@ ol{
 }
 
 .container img {
-  display: block;
+  display: block; 
+  margin: auto;
 }
