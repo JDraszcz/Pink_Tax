@@ -152,5 +152,5 @@ ol{
 }
 
 .container img {
-  align-items: center;
+  display: block;
 }
